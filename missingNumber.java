@@ -18,44 +18,4 @@ class MissingNumber {
 
         System.out.print(naturalNoFormula - sum);
     }
-}Output:16 Explanation:
-
-In the
-above code, we
-have an
-array of
-numbers from 1 to 15.
-We have
-to find
-the missing
-number in
-the array.
-We have
-used the
-formula to
-find the
-sum of
-n natural
-numbers.We have
-calculated the
-sum of
-the given
-array.The missing
-number will
-be the
-difference between
-the sum
-of n
-natural numbers
-and the
-sum of
-the given
-array.
-
-
-Space Complexity:
-
-O(1) 
-Also, read: 
-Find the missing number in an array of 1 to 100 Find the missing number in an array of 1 to 100 
-Leave a Reply  Cancel reply Your email address will not be published. Required fields are marked * Comment * Name *  Email *  Please enable JavaScript to submit this form.
+}
