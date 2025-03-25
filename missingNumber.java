@@ -50,11 +50,12 @@ natural numbers
 and the
 sum of
 the given
-array. 
-Time Complexity:
+array.
 
-O(n) 
-Space Complexity:  O(1) 
+
+Space Complexity:
+
+O(1) 
 Also, read: 
 Find the missing number in an array of 1 to 100 Find the missing number in an array of 1 to 100 
 Leave a Reply  Cancel reply Your email address will not be published. Required fields are marked * Comment * Name *  Email *  Please enable JavaScript to submit this form.
