@@ -1,5 +1,6 @@
 # problem
 
+[geeks for geeks problem link ](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sortBy=submissions)
 In the
 above code, we
 have an
@@ -32,3 +33,23 @@ sum of the given array.
 ### O(1)
 
 # solution
+
+```
+
+
+int n = arr.length+1;
+        // to get sum of n numbers so that we can minus to get remain no
+        int naturalNoFormula =  n * (n+1)/2;
+        // to find sum
+        int sum = 0;
+        for(int i=0;i<arr.length;i++)
+        {
+            sum = arr[i]+sum;
+        }
+
+    // to store result
+
+        return naturalNoFormula-sum;
+
+
+```
